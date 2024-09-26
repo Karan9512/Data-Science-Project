@@ -2,9 +2,6 @@
 ### Sentiment analysis on 1.6 milion tweets
 
 - Find the dataset here: https://www.kaggle.com/karan842/twitter-sentimental-analysis/data 
-
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Twitter%20Sentimental%20Analysis/tweet.jpg' height=800px width=800px></img>
-
 Follow me on twitter: https://twitter.com/KuchBhiKaran
  ## 🔵 About Project
  Twitter is one of the most famous social media platform on which we can share our thoughts, opinion and trending related tweets in the form of text, images and videos. In this task I am going to analyze sentiments of tweets which are in the form of tweets.
